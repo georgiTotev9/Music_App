@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha tests/e2e.test.js",
     "dev": "lite-server",
-    "server": "cd server && node server"
+    "server": "cd server && node server.js"
   },
   "author": "",
   "license": "ISC",
