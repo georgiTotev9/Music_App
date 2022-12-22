@@ -13,5 +13,5 @@
 
 # How to run
 * **`npm install`**
-* **npm run dev** - to run lite-server
-* **npm run server** - to start the server
+* **`npm run dev`** - to run lite-server
+* **`npm run server`** - to start the server
