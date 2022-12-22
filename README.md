@@ -12,6 +12,6 @@
 * Details - if you are the creator of an album you can edit or delete it
 
 # How to run
-* **npm install**
+* **`npm install`**
 * **npm run dev** - to run lite-server
 * **npm run server** - to start the server
